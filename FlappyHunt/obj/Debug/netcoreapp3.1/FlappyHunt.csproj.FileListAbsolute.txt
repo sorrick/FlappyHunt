@@ -1,0 +1,16 @@
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.exe
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.deps.json
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.runtimeconfig.json
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.runtimeconfig.dev.json
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.dll
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\bin\Debug\netcoreapp3.1\FlappyHunt.pdb
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.csprojAssemblyReference.cache
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.Form1.resources
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.Properties.Resources.resources
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.csproj.GenerateResource.cache
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.AssemblyInfoInputs.cache
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.AssemblyInfo.cs
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.csproj.CoreCompileInputs.cache
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.dll
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.pdb
+C:\Users\ricky\Personal Projects\FlappyHunt\FlappyHunt\obj\Debug\netcoreapp3.1\FlappyHunt.genruntimeconfig.cache
